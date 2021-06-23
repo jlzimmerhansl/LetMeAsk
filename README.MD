@@ -71,7 +71,7 @@ $ git clone https://github.com/jlzimmerhansl/LetMeAsk.git
 $ yarn
 
 # run the project
-$ cd web
+$ cd LetMeAsk
 $ yarn start
 ```
 
