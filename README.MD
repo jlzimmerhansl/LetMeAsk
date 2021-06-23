@@ -22,7 +22,7 @@
 
 ## :bookmark: About the Project
 
-Project develope during the 3° Next Level Week, provided by [RocketSeat][url-rocket] :rocket:
+Project develope during the 6° Next Level Week, provided by [RocketSeat][url-rocket] :rocket:
 
 ## :art: Layout
 
