@@ -24,7 +24,7 @@
 
 Project develope during the 3° Next Level Week, provided by [RocketSeat][url-rocket] :rocket:
 
-## :artist: Layout
+## :art: Layout
 
 Web layout is availabe in [Figma][url-figma-web]
 
