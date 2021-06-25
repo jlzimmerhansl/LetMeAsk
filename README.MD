@@ -22,9 +22,9 @@
 
 ## :bookmark: About the Project
 
-Project develope during the 3° Next Level Week, provided by [RocketSeat][url-rocket] :rocket:
+Project develope during the 6° Next Level Week, provided by [RocketSeat][url-rocket] :rocket:
 
-## :artist: Layout
+## :art: Layout
 
 Web layout is availabe in [Figma][url-figma-web]
 
@@ -71,7 +71,7 @@ $ git clone https://github.com/jlzimmerhansl/LetMeAsk.git
 $ yarn
 
 # run the project
-$ cd web
+$ cd LetMeAsk
 $ yarn start
 ```
 
