@@ -41,21 +41,10 @@ This project was developed using the following technologies:
 - [TypeScript][url-typescript]
 - [Firebase][url-forebase]
 
-## :gear: How to use?
-
-> :bulb: The web and mobile version depends on the server is running for its operation.
-
-This project is divided in three parts:
-
-1. Web
-2. Mobile
-3. Backend
-
 ## :mechanic: What do you need to use?
 
 - [Git][url-git]
 - [NodeJS][url-node]
-- [Expo][url-expo]
 
 ## :package: How to clone?
 
